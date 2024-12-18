@@ -32,7 +32,7 @@ This repository demonstrates a comparative study between **LSTM (Long Short-Term
 1. Clone the repository:
 ```bash
   git clone https://github.com/Siddharth-Chandel/Conversational-AI.git
-  cd Improving-Conversational-AI
+  cd Conversational-AI
 ```
 2. Install dependencies: Ensure Python 3.8+ is installed and run:
 ```bash
