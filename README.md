@@ -82,7 +82,7 @@ The png/ folder contains visualization plots such as:
 ---
 
 ## 📄 Documentation
-For a detailed explanation of the project, model architecture, and results, refer to the (Improving Conversational AI.pdf)[/] file.
+For a detailed explanation of the project, model architecture, and results, refer to the [Improving Conversational AI.pdf](https://github.com/Siddharth-Chandel/Conversational-AI/blob/main/Improving%20Conversational%20AI.pdf) file.
 
 ---
 
@@ -104,6 +104,5 @@ Feel free to contribute to this project:
 
 ## 📬 Contact
 Siddharth Chandel
-
-Email: siddharthchandel2004@gmail.com
-LinkedIn: (siddharth-chandel-001097245)[https://www.linkedin.com/in/siddharth-chandel-001097245/]
+- Email: siddharthchandel2004@gmail.com
+- LinkedIn: [siddharth-chandel-001097245](https://www.linkedin.com/in/siddharth-chandel-001097245/)
