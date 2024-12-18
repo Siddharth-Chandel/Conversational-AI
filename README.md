@@ -26,6 +26,8 @@ This repository demonstrates a comparative study between **LSTM (Long Short-Term
 ├── Improving Conversational AI.pdf # Project documentation/report
 └── README.md                 # Project documentation
 ```
+---
+
 ## 🔧 Installation
 1. Clone the repository:
 ```bash
@@ -36,6 +38,8 @@ This repository demonstrates a comparative study between **LSTM (Long Short-Term
 ```bash
   pip install -r requirements.txt
 ```
+---
+
 ## 🛠️ How to Use
 1. Preprocess the Data
 If you're using a custom dataset, ensure the tokenizer and data files are properly set up.
@@ -59,6 +63,8 @@ To test the chatbot:
 ```bash
 python bot.py
 ```
+---
+
 ## 📊 Results and Comparisons
 The models were compared using BLEU Score and Perplexity metrics:
 | Model            | BLEU Score | Perplexity |
@@ -66,13 +72,19 @@ The models were compared using BLEU Score and Perplexity metrics:
 | LSTM             | 0.62       | 12.5       |
 | LSTM+Attention   | 0.78       | 9.3        |
 
+---
+
 ## 🖼️ Visualizations
 The png/ folder contains visualization plots such as:
 - Training and validation loss graphs.
 - Attention heatmaps showcasing the focus regions in sequences.
 
+---
+
 ## 📄 Documentation
 For a detailed explanation of the project, model architecture, and results, refer to the (Improving Conversational AI.pdf)[/] file.
+
+---
 
 ## 💻 Technologies Used
 - Deep Learning Libraries: TensorFlow/Keras
@@ -80,11 +92,15 @@ For a detailed explanation of the project, model architecture, and results, refe
 - Evaluation Metrics: BLEU Score, Perplexity
 - Python Libraries: NumPy, Pandas, Matplotlib
 
+---
+
 ## 🤝 Contributions
 Feel free to contribute to this project:
 1. Fork the repository.
 2. Create a new branch: git checkout -b feature-branch.
 3. Make your changes and submit a pull request.
+
+---
 
 ## 📬 Contact
 Siddharth Chandel
