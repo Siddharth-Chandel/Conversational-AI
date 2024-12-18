@@ -42,7 +42,7 @@ This repository demonstrates a comparative study between **LSTM (Long Short-Term
 
 ## 🛠️ How to Use
 1. Preprocess the Data
-If you're using a custom dataset, ensure the tokenizer and data files are properly set up.
+If using a custom dataset, please ensure the tokenizer and data files are properly set up.
 
 2. Train the Models
 Train the LSTM model:
@@ -61,7 +61,7 @@ python evaluation.py
 4. Run the Chatbot
 To test the chatbot:
 ```bash
-python bot.py
+python -m streamlit run bot.py
 ```
 ---
 
