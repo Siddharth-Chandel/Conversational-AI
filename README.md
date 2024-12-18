@@ -44,12 +44,12 @@ This repository demonstrates a comparative study between **LSTM (Long Short-Term
 1. Preprocess the Data
 If using a custom dataset, please ensure the tokenizer and data files are properly set up.
 
-2. - Train the Models
+2. Train the Models
 - Train the LSTM model:
 ```bash
 python lstm.py
 ```
-Train the LSTM with Attention:
+- Train the LSTM with Attention:
 ```bash
 python lstmWithAttention.py
 ```
